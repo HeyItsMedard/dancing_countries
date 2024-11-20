@@ -1,0 +1,222 @@
+Country Analysis (Top 5 Genres & Danceability)
+==================================================
+
+Country: RU
+Placement: 1
+Average Danceability: 75.57%
+Top 5 Genres:
+  - 1. russian hip hop
+  - 2. russian pop
+  - 3. russian gangster rap
+  - 4. russian dance
+  - 5. russian trap
+==================================================
+
+Country: MX
+Placement: 2
+Average Danceability: 74.21%
+Top 5 Genres:
+  - 1. corrido
+  - 2. sad sierreno
+  - 3. corridos tumbados
+  - 4. sierreno
+  - 5. musica mexicana
+==================================================
+
+Country: FR
+Placement: 3
+Average Danceability: 73.10%
+Top 5 Genres:
+  - 1. pop urbaine
+  - 2. french hip hop
+  - 3. r&b francais
+  - 4. rap conscient
+  - 5. belgian hip hop
+==================================================
+
+Country: ES
+Placement: 4
+Average Danceability: 71.26%
+Top 5 Genres:
+  - 1. urbano latino
+  - 2. trap latino
+  - 3. reggaeton
+  - 4. urbano espanol
+  - 5. puerto rican pop
+==================================================
+
+Country: HU
+Placement: 5
+Average Danceability: 70.62%
+Top 5 Genres:
+  - 1. hungarian pop
+  - 2. hungarian hip hop
+  - 3. magyar trap
+  - 4. pop
+  - 5. nu metal
+==================================================
+
+Country: BR
+Placement: 6
+Average Danceability: 69.80%
+Top 5 Genres:
+  - 1. sertanejo universitario
+  - 2. sertanejo
+  - 3. arrocha
+  - 4. funk paulista
+  - 5. funk consciente
+==================================================
+
+Country: AR
+Placement: 7
+Average Danceability: 67.58%
+Top 5 Genres:
+  - 1. trap argentino
+  - 2. urbano latino
+  - 3. trap latino
+  - 4. argentine hip hop
+  - 5. trap triste
+==================================================
+
+Country: KR
+Placement: 8
+Average Danceability: 67.13%
+Top 5 Genres:
+  - 1. k-pop
+  - 2. k-pop girl group
+  - 3. pop
+  - 4. 5th gen k-pop
+  - 5. dance pop
+==================================================
+
+Country: PL
+Placement: 9
+Average Danceability: 66.68%
+Top 5 Genres:
+  - 1. polish hip hop
+  - 2. polish trap
+  - 3. polish pop
+  - 4. polish viral pop
+  - 5. pop
+==================================================
+
+Country: IT
+Placement: 10
+Average Danceability: 65.39%
+Top 5 Genres:
+  - 1. italian hip hop
+  - 2. italian pop
+  - 3. trap italiana
+  - 4. italian adult pop
+  - 5. pop
+==================================================
+
+Country: BE
+Placement: 11
+Average Danceability: 65.03%
+Top 5 Genres:
+  - 1. french hip hop
+  - 2. pop urbaine
+  - 3. r&b francais
+  - 4. rap conscient
+  - 5. belgian hip hop
+==================================================
+
+Country: NL
+Placement: 12
+Average Danceability: 64.67%
+Top 5 Genres:
+  - 1. pop
+  - 2. lustrum
+  - 3. dutch pop
+  - 4. dutch hip hop
+  - 5. nederlandse hardstyle
+==================================================
+
+Country: IN
+Placement: 13
+Average Danceability: 64.23%
+Top 5 Genres:
+  - 1. modern bollywood
+  - 2. filmi
+  - 3. desi pop
+  - 4. gujarati pop
+  - 5. punjabi pop
+==================================================
+
+Country: DE
+Placement: 14
+Average Danceability: 62.96%
+Top 5 Genres:
+  - 1. german hip hop
+  - 2. alternative metal
+  - 3. nu metal
+  - 4. post-grunge
+  - 5. rap metal
+==================================================
+
+Country: JP
+Placement: 15
+Average Danceability: 61.68%
+Top 5 Genres:
+  - 1. j-pop
+  - 2. j-rock
+  - 3. anime rock
+  - 4. k-pop
+  - 5. k-pop girl group
+==================================================
+
+Country: US
+Placement: 16
+Average Danceability: 60.65%
+Top 5 Genres:
+  - 1. pop
+  - 2. rap
+  - 3. hip hop
+  - 4. dance pop
+  - 5. art pop
+==================================================
+
+Country: AU
+Placement: 17
+Average Danceability: 60.38%
+Top 5 Genres:
+  - 1. pop
+  - 2. rap
+  - 3. art pop
+  - 4. permanent wave
+  - 5. singer-songwriter pop
+==================================================
+
+Country: SE
+Placement: 18
+Average Danceability: 60.33%
+Top 5 Genres:
+  - 1. pop
+  - 2. swedish trap pop
+  - 3. barnmusik
+  - 4. swedish pop
+  - 5. swedish hip hop
+==================================================
+
+Country: UK
+Placement: 19
+Average Danceability: 58.58%
+Top 5 Genres:
+  - 1. pop
+  - 2. singer-songwriter pop
+  - 3. dance pop
+  - 4. rap
+  - 5. adult standards
+==================================================
+
+Country: CA
+Placement: 20
+Average Danceability: 58.25%
+Top 5 Genres:
+  - 1. pop
+  - 2. rap
+  - 3. hip hop
+  - 4. dance pop
+  - 5. contemporary country
+==================================================
